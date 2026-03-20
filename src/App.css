@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.hide-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hover zoom + glow */
+.song-item:hover {
+  transform: scale(1.05);
+  background: rgba(29, 185, 84, 0.2);
+  box-shadow: 0 0 15px rgba(29, 185, 84, 0.5);
+}
+
