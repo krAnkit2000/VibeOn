@@ -51,6 +51,13 @@ const songs = [
     artist: "Artist 7",
     src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
     image: "https://picsum.photos/200?7"
+  },
+    {
+    id: 8,
+    title: "Track 8",
+    artist: "Artist 8",
+    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    image: "https://picsum.photos/200?7"
   }
 ];
 
